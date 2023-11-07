@@ -1,1 +1,1 @@
-https://romzesm.github.io/rsschool-cv/cv
+https://romzesm.github.io/rsschool-cv/
