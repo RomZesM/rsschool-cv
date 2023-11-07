@@ -15,7 +15,7 @@ For a long time I worked as a doctor. It was boring, and one day I made an appli
 ## Skills and Proficiency:
 * HTML5
 * CSS
-* JavaScript base
+* JavaScript
 * C
 * Java
     + Spring Framework
@@ -44,8 +44,10 @@ function positiveSum(arr) {
 }
 ```
 ## Education:
+
 ### IT Cources
 * [JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT)](https://app.rs.school/certificate/l4vr2qsx)
+
 ### Main Education:
 * Grodno State Medical Univercity (2010)
 
