@@ -1,2 +1,1 @@
-# rsschool-cv
-cv for rs-school task 2023
+https://romzesm.github.io/rsschool-cv/cv
